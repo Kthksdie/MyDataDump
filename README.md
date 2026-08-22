@@ -1,4 +1,4 @@
 # MyDataDump
-From Springhouse, Vibrant Fusion, Wicresoft and OnePlan Solutions.
+Data files, accounts, ips, urls, etc from Springhouse, Vibrant Fusion, Wicresoft and OnePlan Solutions.
 
 HAPPY HACKING
